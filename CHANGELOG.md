@@ -1,6 +1,10 @@
 
 # Changelog
 
+## v1.3.5
+
+* Fix property-decorator: set configurable=true.
+
 ## v1.3.4
 
 * Properly support decorating class properties on subclasses.
